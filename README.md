@@ -1,3 +1,6 @@
-# Praktikum 1 PWL (Jquery)
-# Nama: Muhammad Farisi Zatwara Putra Unyi
-# NIM : 119140201
+# IDENTITAS MAHASISWA
+Nama  : Muhammad Farisi Zatwara Putraa Unyi
+
+NIM   : 119140201
+
+Kelas : PWL
